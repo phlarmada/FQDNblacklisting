@@ -82,6 +82,11 @@ The script requires administrative privileges to modify the hosts file. To run t
 ```bash
 python main_script.py <action> <fqdn>
 ```
+### Actions
+- block
+- delete
+- modify
+- check
 
 ## Requirements
 - Python 3.x
